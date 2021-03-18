@@ -1,0 +1,23 @@
+body {
+    background: #e96443;
+    background: -webkit-linear-gradient(to right, #904e95, #e96443); 
+    background: linear-gradient(to right, #904e95, #e96443);
+
+}
+#show {
+    
+    background-color: chartreuse;
+}
+#locat {
+    background-color: darkgoldenrod;
+    width: 400px;
+    height: 20px;
+}
+#podis {
+    text-transform: initial;
+    width: 200px;
+}
+
+#pet {
+    background-color: ivory;
+}
